@@ -67,19 +67,33 @@ python3 voi-creative-studio/glossy-brow/tools/test-admin-save.py   # 12/12 통�
 결과: `preview/*.png`, `preview/verify-report.json`
 - `01-desktop.png` · `02-mobile.png` · `03-reels.png` · `06-admin.png` (+ 섹션별 캡처)
 
-## 3. GitHub Pages 배포
+## 3. GitHub Pages 배포 (완료)
 
-저장소: https://github.com/snow196830-stack/glossybrow (GitHub Pages 배포됨).
+- 저장소: https://github.com/snow196830-stack/glossybrow (public)
+- 라이브: **https://snow196830-stack.github.io/glossybrow/** · 관리자 `/glossybrow/admin/`
+- 설정: Pages → Deploy from a branch → `main` / `/ (root)`, HTTPS 적용됨
+
+문구·사진을 고친 뒤 반영하는 방법:
 
 ```bash
-cd voi-creative-studio/glossy-brow
-git init -b main
-git add -A && git commit -m "GLOSSY homepage"
-gh repo create snow196830-stack/glossybrow --public --source=. --push
-gh api -X POST repos/snow196830-stack/glossybrow/pages \
-  -f 'source[branch]=main' -f 'source[path]=/'
-# 잠시 뒤 https://snow196830-stack.github.io/glossybrow/
+# 1) 로컬 원본(voi-creative-studio/glossy-brow)에서 수정하고 검증
+python3 voi-creative-studio/glossy-brow/tools/verify.py
+# 2) 배포용 폴더로 동기화 (notes/·preview/·tools/ 제외)
+python3 - <<'EOF'
+import shutil, os
+src='voi-creative-studio/glossy-brow'; dst='voi-creative-studio/glossy-brow-deploy'
+for name in os.listdir(src):
+    if name in ('notes','preview','tools','.git'): continue
+    s, d = os.path.join(src,name), os.path.join(dst,name)
+    shutil.rmtree(d, ignore_errors=True) if os.path.isdir(d) else (os.path.exists(d) and os.remove(d))
+    shutil.copytree(s, d) if os.path.isdir(s) else shutil.copy2(s, d)
+EOF
+# 3) 커밋·푸시 → 30~60초 뒤 사이트 반영
+cd voi-creative-studio/glossy-brow-deploy
+git add -A && git commit -m "문구 수정" && git push
 ```
+
+원장님이 `/admin/` 에서 저장하면 위 과정 없이 GitHub 에 바로 커밋됩니다.
 
 - `.nojekyll` 포함되어 있어 그대로 정적 파일로 서빙됩니다.
 - `robots.txt` 에서 `/admin/` 을 막고, 관리자 페이지에는 `<meta name="robots" content="noindex, nofollow">` 와 `admin/_headers`(`X-Robots-Tag`)가 들어 있습니다.
