@@ -1,0 +1,1315 @@
+{
+  "version": 1,
+  "updatedAt": "",
+  "site": {
+    "name": "GLOSSY",
+    "nameKo": "글로시",
+    "tagline": {
+      "kr": "수원 광교 · 프리미엄 아트메이크업 스튜디오",
+      "jp": "水原（スウォン）・プレミアム アートメイク スタジオ",
+      "en": "Suwon · premium art makeup studio"
+    }
+  },
+  "notice": {
+    "text": {
+      "kr": "일요일 휴무 · 상현역 2번 출구 도보 5–7분 · 예약·상담은 카카오톡 채널",
+      "jp": "日曜定休・サンヒョン駅2番出口から徒歩5〜7分・ご予約はLINEで",
+      "en": "Closed Sundays · 5–7 min from Sanghyeon Stn. exit 2 · Book on KakaoTalk or LINE"
+    }
+  },
+  "sections": {
+    "about": true,
+    "menu": true,
+    "gallery": true,
+    "reels": true,
+    "space": true,
+    "class": true,
+    "japan": true,
+    "reviews": true,
+    "reserve": true,
+    "faq": true,
+    "visit": true
+  },
+  "hero": {
+    "eyebrow": "SUWON GWANGYO · ART MAKEUP ATELIER",
+    "title": {
+      "kr": "자연스러운 변화,<br>오래 봐도<br>질리지 않는 눈썹",
+      "jp": "自然な変化。<br>長く見ても<br>飽きのこない眉",
+      "en": "A natural change —<br>brows you never<br>grow tired of"
+    },
+    "lead": {
+      "kr": "글로시는 유행하는 눈썹을 그대로 따라 하지 않습니다. 얼굴의 골격과 표정 근육의 움직임, 눈동자와 피부 톤까지 살펴 가장 잘 어울리는 디자인과 컬러를 제안합니다. 2020년부터 수원 광교에서, 디자인부터 시술과 결과까지 같은 기준으로.",
+      "jp": "流行の眉をそのまま当てはめるのではなく、お顔の骨格や表情筋の動き、瞳と肌のトーンまで見極めて、最も調和するデザインとカラーをご提案します。2020年から水原（スウォン）で、デザインから施術・仕上がりまで同じ基準で。",
+      "en": "We don't copy whatever brow is in fashion. We read your bone structure, the way your expression muscles move, your eye colour and skin tone, then propose the design and colour that suit you best. In Suwon since 2020 — the same standard from design to treatment to result."
+    },
+    "note": {
+      "kr": "예약과 상담은 카카오톡 채널이 가장 빠릅니다.",
+      "jp": "ご予約・ご相談はLINEが最もスムーズです。",
+      "en": "KakaoTalk is the fastest way to book; LINE for Japanese."
+    },
+    "image": "assets/hero.jpg",
+    "imageAlt": {
+      "kr": "글로시에서 눈썹 시술을 마친 고객의 옆모습",
+      "jp": "GLOSSYで眉の施術を受けたお客様の横顔",
+      "en": "A client after a brow treatment at GLOSSY"
+    },
+    "badgeNum": {
+      "kr": "7년",
+      "jp": "7年",
+      "en": "7 yrs"
+    },
+    "badgeTxt": {
+      "kr": "대표원장 경력<br>디자인부터 시술까지",
+      "jp": "代表院長歴<br>デザインから施術まで",
+      "en": "years of the lead artist<br>design to treatment"
+    }
+  },
+  "stats": [
+    {
+      "num": "2020",
+      "label": {
+        "kr": "수원 광교에서 시작<small>established in Suwon</small>",
+        "jp": "水原でスタート<small>established in 2020</small>",
+        "en": "Established<small>in Suwon, 2020</small>"
+      }
+    },
+    {
+      "num": "7년",
+      "label": {
+        "kr": "대표원장 경력",
+        "jp": "代表院長のキャリア",
+        "en": "lead artist's career"
+      }
+    },
+    {
+      "num": "356",
+      "label": {
+        "kr": "네이버 방문자 리뷰<small>평점 5.0</small>",
+        "jp": "NAVER 訪問者レビュー<small>評価 5.0</small>",
+        "en": "NAVER visitor reviews<small>rated 5.0</small>"
+      }
+    },
+    {
+      "num": "2.2만",
+      "label": {
+        "kr": "인스타그램 팔로워<small>@glossy_brow</small>",
+        "jp": "Instagram フォロワー<small>@glossy_brow</small>",
+        "en": "Instagram followers<small>@glossy_brow</small>"
+      }
+    }
+  ],
+  "about": {
+    "eyebrow": "THE ATELIER",
+    "title": {
+      "kr": "디자인부터 시술, 결과까지<br>같은 기준으로",
+      "jp": "デザインから施術、仕上がりまで<br>同じ基準で",
+      "en": "One standard, from design<br>to treatment to result"
+    },
+    "lead": {
+      "kr": "글로시 수원은 프리미엄 아트메이크업의 기준을 만들어온 전문 스튜디오입니다. 각 분야의 임상 경험과 전문성을 갖춘 전문가가 상주하고, 디자인부터 시술·결과까지 모든 과정에서 높은 완성도와 일관된 퀄리티를 추구합니다.",
+      "jp": "GLOSSY水原は、プレミアム アートメイクの基準をつくってきた専門スタジオです。各分野の臨床経験と専門性を備えたアーティストが在籍し、デザインから施術・仕上がりまで、すべての過程で高い完成度と一貫したクオリティを追求します。",
+      "en": "GLOSSY Suwon is a studio built around one standard of premium art makeup. Artists with clinical experience in each field work here, and every step — design, treatment, result — is held to the same finish."
+    },
+    "pillars": [
+      {
+        "title": {
+          "kr": "골격과 근육을 읽는 디자인",
+          "jp": "骨格と筋肉を読むデザイン",
+          "en": "A design that reads bone and muscle"
+        },
+        "desc": {
+          "kr": "같은 디자인도 얼굴 골격과 표정 근육의 움직임에 따라 다르게 보입니다. 앉은 자세와 누운 자세, 두 번에 걸쳐 디자인을 확인하고 시술합니다.",
+          "jp": "同じデザインでも、顔の骨格や表情筋の動きによって見え方は変わります。座った状態と寝た状態、両方でデザインを確認してから施術します。",
+          "en": "The same drawing looks different on different bones. We check the design twice — seated and lying down — before the treatment begins."
+        }
+      },
+      {
+        "title": {
+          "kr": "퍼스널 컬러를 맞춘 색",
+          "jp": "パーソナルカラーに合わせた色",
+          "en": "Colour matched to you"
+        },
+        "desc": {
+          "kr": "눈동자와 피부 톤에 맞춰 색을 고릅니다. 시간이 지나도 붉거나 탁해 보이지 않도록 색소와 톤을 함께 설계합니다.",
+          "jp": "瞳と肌のトーンに合わせて色を選びます。時間が経っても赤みや濁りが出にくいよう、色素とトーンを一緒に設計します。",
+          "en": "We choose the pigment against your eye colour and skin tone, so it settles into a soft brown rather than a red or muddy one as time passes."
+        }
+      },
+      {
+        "title": {
+          "kr": "잔혼 · 비대칭 교정",
+          "jp": "残り・左右差の修正",
+          "en": "Correction work"
+        },
+        "desc": {
+          "kr": "이전 시술의 색소 잔혼, 좌우 비대칭, 얼룩진 컬러를 상담 후 안전한 범위 안에서 교정합니다.",
+          "jp": "以前の色素の残り、左右差、色ムラを、カウンセリングのうえ安全な範囲で整えます。",
+          "en": "Previous pigment, asymmetry and uneven colour are assessed in consultation and corrected only within a safe range."
+        }
+      },
+      {
+        "title": {
+          "kr": "예약제 · 1:1 상담",
+          "jp": "予約制・1対1カウンセリング",
+          "en": "By appointment, one to one"
+        },
+        "desc": {
+          "kr": "시간을 정해 예약하고, 시술 전 충분히 상담합니다. 시술 항목에 따라 담당 전문가가 달라질 수 있습니다.",
+          "jp": "時間を決めてご予約いただき、施術前にしっかりカウンセリングします。メニューによって担当が変わる場合があります。",
+          "en": "You book a time, and the consultation happens before anything else. Which artist takes you depends on the menu."
+        }
+      }
+    ],
+    "quote": {
+      "kr": "「누군가를 닮은 아름다움이 아닌,<br>오직 나에게 가장 잘 어울리는 아름다움을 디자인합니다.」",
+      "jp": "「誰かに似せた美しさではなく、<br>あなたにいちばん似合う美しさをデザインします。」",
+      "en": "“Not a beauty that imitates someone else —<br>a beauty designed to suit only you.”"
+    },
+    "quoteSrc": {
+      "kr": "글로시 인스타그램 @glossy_brow",
+      "jp": "GLOSSY Instagram @glossy_brow",
+      "en": "GLOSSY Instagram @glossy_brow"
+    },
+    "image": "assets/about.jpg",
+    "imageAlt": {
+      "kr": "7년 경력의 멀리서도 찾아오는 글로시 — 브랜드 포스터",
+      "jp": "7年のキャリア、遠方からも通われるGLOSSY — ブランドポスター",
+      "en": "GLOSSY brand poster — seven years, clients who travel to us"
+    },
+    "caption": {
+      "kr": "GLOSSY · SUWON",
+      "jp": "GLOSSY · SUWON",
+      "en": "GLOSSY · SUWON"
+    },
+    "signature": {
+      "kr": "대표원장 예담",
+      "jp": "代表院長 イェダム",
+      "en": "Yedam, lead artist"
+    }
+  },
+  "menu": {
+    "eyebrow": "TREATMENT",
+    "title": {
+      "kr": "시술 안내",
+      "jp": "メニュー",
+      "en": "Treatments"
+    },
+    "lead": {
+      "kr": "눈썹·입술·아이라인 반영구와 잔혼 커버, 속눈썹펌까지. 반영구 시술 금액은 잔혼 상태와 디자인 범위에 따라 달라져 상담 후 안내드립니다.",
+      "jp": "眉・リップ・アイラインのアートメイク、残り（修正）のカバー、まつげパーマまで。アートメイクの料金は残りの状態やデザインの範囲によって変わるため、カウンセリング後にご案内します。",
+      "en": "Brows, lips, eyeliner, correction work and lash lifts. Art makeup is quoted after consultation, because the range of work changes the price."
+    },
+    "items": [
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "콤보 눈썹",
+          "jp": "コンボ眉",
+          "en": "Combo brows"
+        },
+        "desc": {
+          "kr": "눈썹 시술을 기본으로 구성한 대표 메뉴입니다.",
+          "jp": "眉を基本に構成した代表メニューです。",
+          "en": "The signature brow menu."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "자연결 눈썹",
+          "jp": "自然な毛並み眉",
+          "en": "Natural-strand brows"
+        },
+        "desc": {
+          "kr": "본연의 눈썹 결을 살려 결을 채우는 디자인입니다.",
+          "jp": "本来の毛流れを活かして描くデザインです。",
+          "en": "Built on your own hair direction."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "수지기법 눈썹",
+          "jp": "スジ（手彫り）眉",
+          "en": "Suji (hand-drawn) brows"
+        },
+        "desc": {
+          "kr": "손으로 점을 하나씩 찍어 결을 만드는 방식입니다.",
+          "jp": "手で一点ずつ点を置いて毛並みをつくる技法です。",
+          "en": "Drawn dot by dot by hand."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "입술 컬러",
+          "jp": "リップカラー",
+          "en": "Lip colour"
+        },
+        "desc": {
+          "kr": "무너진 립라인과 어둡고 균일하지 않은 컬러를 정돈합니다. 오버립은 상담 후 안전한 범위에서만 진행합니다.",
+          "jp": "ぼやけたリップラインや、くすみ・色ムラを整えます。オーバーリップはカウンセリングのうえ安全な範囲でのみ行います。",
+          "en": "Softens a blurred lip line and uneven tone. Over-lip is done only within a safe range after consultation."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "아이라인 디자인",
+          "jp": "アイラインデザイン",
+          "en": "Eyeliner design"
+        },
+        "desc": {
+          "kr": "눈매에 맞춰 라인을 설계합니다.",
+          "jp": "目元に合わせてラインを設計します。",
+          "en": "A line drawn to your eye shape."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "애교살 하이라이트",
+          "jp": "涙袋ハイライト",
+          "en": "Aegyo-sal highlight"
+        },
+        "desc": {
+          "kr": "눈 아래 음영을 가볍게 잡아 주는 시술입니다.",
+          "jp": "目の下の陰影をやわらかく整える施術です。",
+          "en": "A soft lift of the shadow under the eye."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "반영구",
+          "jp": "アートメイク",
+          "en": "Art makeup"
+        },
+        "name": {
+          "kr": "헤어라인",
+          "jp": "ヘアライン",
+          "en": "Hairline"
+        },
+        "desc": {
+          "kr": "헤어라인을 채워 이마선을 정돈합니다. 눈썹과 함께 진행하는 세트도 있습니다.",
+          "jp": "ヘアラインを埋めて額のラインを整えます。眉とのセットもご用意しています。",
+          "en": "Fills the hairline along the forehead. Can be paired with brows."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "잔혼 커버",
+          "jp": "残りカバー",
+          "en": "Correction"
+        },
+        "name": {
+          "kr": "눈썹 잔혼 커버",
+          "jp": "眉の残りカバー",
+          "en": "Brow correction"
+        },
+        "desc": {
+          "kr": "붉은 기운이나 번진 결 위에 덮어 그립니다. 잔혼이 있으면 디자인과 색에 제약이 있습니다.",
+          "jp": "赤みやにじんだ跡の上から重ねて描きます。残りがある場合はデザインと色に制限があります。",
+          "en": "Drawn over old pigment. Existing work limits design and colour."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "잔혼 커버",
+          "jp": "残りカバー",
+          "en": "Correction"
+        },
+        "name": {
+          "kr": "입술 잔혼 커버",
+          "jp": "リップの残りカバー",
+          "en": "Lip correction"
+        },
+        "desc": {
+          "kr": "어둡거나 얼룩진 입술 컬러를 균일하게 정돈합니다.",
+          "jp": "くすみや色ムラのある唇を均一に整えます。",
+          "en": "Evens out dark or patchy lip colour."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "잔혼 커버",
+          "jp": "残りカバー",
+          "en": "Correction"
+        },
+        "name": {
+          "kr": "아이라인 잔혼 커버",
+          "jp": "アイラインの残りカバー",
+          "en": "Eyeliner correction"
+        },
+        "desc": {
+          "kr": "이전 아이라인의 번짐과 색을 정돈합니다.",
+          "jp": "以前のアイラインのにじみや色を整えます。",
+          "en": "Cleans up old liner that has bled or faded."
+        },
+        "price": {
+          "kr": "상담 시 안내",
+          "jp": "カウンセリング時にご案内",
+          "en": "Quoted in consultation"
+        }
+      },
+      {
+        "group": {
+          "kr": "속눈썹펌",
+          "jp": "まつげパーマ",
+          "en": "Lash lift"
+        },
+        "name": {
+          "kr": "[시그니처] 글로시 노글루펌",
+          "jp": "［シグネチャー］GLOSSY ノーグルーリフト",
+          "en": "Signature GLOSSY no-glue lift"
+        },
+        "desc": {
+          "kr": "눈썹결과 속눈썹을 함께 정돈하는 시그니처 펌입니다.",
+          "jp": "眉とまつげを一緒に整えるシグネチャーリフトです。",
+          "en": "Our signature lift for brows and lashes together."
+        },
+        "price": {
+          "kr": "44,000원",
+          "jp": "44,000ウォン",
+          "en": "₩44,000"
+        }
+      },
+      {
+        "group": {
+          "kr": "속눈썹펌",
+          "jp": "まつげパーマ",
+          "en": "Lash lift"
+        },
+        "name": {
+          "kr": "눈썹결 살리기펌 (모류교정)",
+          "jp": "眉の毛流れリフト（毛流れ矯正）",
+          "en": "Brow-direction lift"
+        },
+        "desc": {
+          "kr": "눈썹의 모류를 정돈해 결을 살리는 펌입니다.",
+          "jp": "眉の毛流れを整えて、毛並みを活かすリフトです。",
+          "en": "Trains the brow hair direction so the shape holds."
+        },
+        "price": {
+          "kr": "44,000원",
+          "jp": "44,000ウォン",
+          "en": "₩44,000"
+        }
+      },
+      {
+        "group": {
+          "kr": "속눈썹펌",
+          "jp": "まつげパーマ",
+          "en": "Lash lift"
+        },
+        "name": {
+          "kr": "수분영양폭탄 클리닉펌",
+          "jp": "水分・栄養クリニックリフト",
+          "en": "Moisture clinic lift"
+        },
+        "desc": {
+          "kr": "건조한 눈썹·속눈썹에 수분과 영양을 채우는 클리닉 펌입니다.",
+          "jp": "乾燥した眉・まつげに水分と栄養を補うクリニックリフトです。",
+          "en": "A conditioning lift for dry brows and lashes."
+        },
+        "price": {
+          "kr": "49,500원",
+          "jp": "49,500ウォン",
+          "en": "₩49,500"
+        }
+      },
+      {
+        "group": {
+          "kr": "속눈썹펌",
+          "jp": "まつげパーマ",
+          "en": "Lash lift"
+        },
+        "name": {
+          "kr": "블랙마스카라펌",
+          "jp": "ブラックマスカラリフト",
+          "en": "Black mascara lift"
+        },
+        "desc": {
+          "kr": "두 배 또렷해지는 블랙 틴트 마스카라펌입니다.",
+          "jp": "2倍くっきり見えるブラックティントのマスカラリフトです。",
+          "en": "A black-tint lift for twice the definition."
+        },
+        "price": {
+          "kr": "55,000원",
+          "jp": "55,000ウォン",
+          "en": "₩55,000"
+        }
+      }
+    ],
+    "footnote": {
+      "kr": "속눈썹펌 금액은 네이버 플레이스 가격표에 안내된 금액입니다. 반영구 시술은 디자인·범위·잔혼 상태에 따라 금액이 달라져 상담 후 안내드리며, 네이버 예약은 예약금 50,000원으로 접수됩니다.",
+      "jp": "まつげパーマの料金はNAVERプレイスに掲載されている金額です。アートメイクはデザイン・範囲・残りの状態によって料金が変わるため、カウンセリング後にご案内します。NAVER予約は予約金50,000ウォンで承ります。",
+      "en": "Lash lift prices are as listed on NAVER Place. Art makeup is quoted after consultation, as design, area and existing pigment change the price. NAVER bookings are taken with a ₩50,000 deposit."
+    }
+  },
+  "gallery": {
+    "eyebrow": "PORTFOLIO",
+    "title": {
+      "kr": "시술의 기록",
+      "jp": "施術の記録",
+      "en": "The work"
+    },
+    "lead": {
+      "kr": "글로시 인스타그램에 공개한 사진입니다. 사진을 누르면 크게 볼 수 있습니다.",
+      "jp": "GLOSSYのInstagramに公開している写真です。タップすると拡大表示できます。",
+      "en": "Photographs from the studio's Instagram. Tap one to see it larger."
+    },
+    "items": [
+      {
+        "id": "g1",
+        "image": "assets/gallery/g7-glossy-mood.jpg",
+        "cap": {
+          "kr": "GLOSSY, 수원",
+          "jp": "GLOSSY、水原",
+          "en": "GLOSSY, Suwon"
+        },
+        "alt": {
+          "kr": "글로시 브랜드 화보",
+          "jp": "GLOSSYのブランドビジュアル",
+          "en": "A GLOSSY brand portrait"
+        },
+        "url": "https://www.instagram.com/p/DfC1MAnPHAk/"
+      },
+      {
+        "id": "g2",
+        "image": "assets/gallery/g2-lip.jpg",
+        "cap": {
+          "kr": "입술 컬러 — 붉지 않게, 생기 있게",
+          "jp": "リップカラー — 赤すぎず、血色よく",
+          "en": "Lip colour — alive, not red"
+        },
+        "alt": {
+          "kr": "입술 컬러 시술 전후를 정리한 사진",
+          "jp": "リップカラーのビフォーアフター写真",
+          "en": "Before and after of a lip colour treatment"
+        },
+        "url": "https://www.instagram.com/p/Da9RGEEvWnG/"
+      },
+      {
+        "id": "g3",
+        "image": "assets/gallery/g3-lip-close.jpg",
+        "cap": {
+          "kr": "무너진 립라인 정돈",
+          "jp": "ぼやけたリップラインを整える",
+          "en": "Restoring a soft lip line"
+        },
+        "alt": {
+          "kr": "입술 라인과 컬러를 정돈한 시술 결과",
+          "jp": "リップラインと色を整えた仕上がり",
+          "en": "Lip line and colour after treatment"
+        },
+        "url": "https://www.instagram.com/p/Dfiy40uvPvp/"
+      },
+      {
+        "id": "g4",
+        "image": "assets/gallery/g8-brow.jpg",
+        "cap": {
+          "kr": "멀리서도 찾아오는 눈썹",
+          "jp": "遠方からも通われる眉",
+          "en": "The brow clients travel for"
+        },
+        "alt": {
+          "kr": "눈썹 시술 결과를 확인하는 고객",
+          "jp": "眉の仕上がりを確認するお客様",
+          "en": "A client checking the finished brow"
+        },
+        "url": "https://www.instagram.com/reel/DfYkXVNPvu2/"
+      },
+      {
+        "id": "g5",
+        "image": "assets/gallery/g9-lip-color.jpg",
+        "cap": {
+          "kr": "잔혼 커버 · 브릭 로지",
+          "jp": "残りカバー・ブリックロージー",
+          "en": "Correction in brick rosy"
+        },
+        "alt": {
+          "kr": "입술 잔혼을 커버한 시술 결과",
+          "jp": "唇の残りをカバーした仕上がり",
+          "en": "A lip corrected over old pigment"
+        },
+        "url": "https://www.instagram.com/reel/DeszfCKPrsP/"
+      },
+      {
+        "id": "g6",
+        "image": "assets/gallery/g1-brow-design.jpg",
+        "cap": {
+          "kr": "디자인 비교 — 같은 얼굴, 다른 결",
+          "jp": "デザイン比較 — 同じ顔、違う毛並み",
+          "en": "Design comparison — one face, two directions"
+        },
+        "alt": {
+          "kr": "눈썹 디자인 두 가지를 비교한 사진",
+          "jp": "眉デザインを2種類比較した写真",
+          "en": "Two brow designs compared on one face"
+        },
+        "url": "https://www.instagram.com/p/DbSkaZcFEVU/"
+      },
+      {
+        "id": "g7",
+        "image": "assets/gallery/g5-brow-eye.jpg",
+        "cap": {
+          "kr": "눈썹과 눈매를 함께 보는 이유",
+          "jp": "眉と目元を一緒に見る理由",
+          "en": "Brows, read together with the eyes"
+        },
+        "alt": {
+          "kr": "눈썹 라인을 확인하는 시술 직후 사진",
+          "jp": "眉のラインを確認する施術直後の写真",
+          "en": "Checking the brow line right after treatment"
+        },
+        "url": "https://www.instagram.com/p/DegeBpqlGSa/"
+      },
+      {
+        "id": "g8",
+        "image": "assets/gallery/g4-brow-result.jpg",
+        "cap": {
+          "kr": "자연결 눈썹",
+          "jp": "自然な毛並みの眉",
+          "en": "Natural-strand brows"
+        },
+        "alt": {
+          "kr": "자연스러운 눈썹 시술 결과",
+          "jp": "自然な眉の仕上がり",
+          "en": "A natural brow result"
+        },
+        "url": "https://www.instagram.com/p/DegeBpqlGSa/"
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "REELS",
+    "title": {
+      "kr": "움직임으로 보는 결과",
+      "jp": "動きで見る仕上がり",
+      "en": "The result, in motion"
+    },
+    "lead": {
+      "kr": "글로시 인스타그램(@glossy_brow)의 릴스입니다. 카드를 누르면 원본 영상이 열립니다.",
+      "jp": "GLOSSY Instagram（@glossy_brow）のリールです。カードをタップすると元の動画が開きます。",
+      "en": "Reels from @glossy_brow. Tap a card to open the original."
+    },
+    "reels": [
+      {
+        "id": "reel-mood",
+        "url": "https://www.instagram.com/reel/DfYkXVNPvu2/",
+        "video": "assets/reels/DfYkXVNPvu2.mp4",
+        "poster": "assets/reels/DfYkXVNPvu2.jpg",
+        "title": {
+          "kr": "멀리서도 글로시를 찾는 이유",
+          "jp": "遠方からGLOSSYを選ぶ理由",
+          "en": "Why clients travel to GLOSSY"
+        },
+        "desc": {
+          "kr": "고객님 한 분 한 분에게 어울리는 무드 있는 눈썹 디자인.",
+          "jp": "お一人おひとりの雰囲気に寄り添った眉デザイン。",
+          "en": "A design that sits with each client's own mood."
+        }
+      },
+      {
+        "id": "reel-design",
+        "url": "https://www.instagram.com/reel/De0d-KfvxZo/",
+        "video": "assets/reels/De0d-KfvxZo.mp4",
+        "poster": "assets/reels/De0d-KfvxZo.jpg",
+        "title": {
+          "kr": "정해진 디자인은 없습니다",
+          "jp": "決まったデザインはありません",
+          "en": "There is no fixed template"
+        },
+        "desc": {
+          "kr": "원모와 골격, 눈매까지 분석해 디자인을 완성합니다.",
+          "jp": "自眉・骨格・目元まで分析してデザインします。",
+          "en": "Brow hair, bone and eye shape, all read before drawing."
+        }
+      },
+      {
+        "id": "reel-lip",
+        "url": "https://www.instagram.com/reel/DeszfCKPrsP/",
+        "video": "assets/reels/DeszfCKPrsP.mp4",
+        "poster": "assets/reels/DeszfCKPrsP.jpg",
+        "title": {
+          "kr": "잔혼 커버와 컬러 교정",
+          "jp": "残りカバーとカラー補正",
+          "en": "Correction and colour"
+        },
+        "desc": {
+          "kr": "탈각 후 컬러감은 브릭 로지 — 상담 후 안전한 범위에서 진행합니다.",
+          "jp": "皮むけ後のカラーはブリックロージー。安全な範囲で行います。",
+          "en": "What settles after peeling: brick rosy. Always within a safe range."
+        }
+      },
+      {
+        "id": "reel-class",
+        "url": "https://www.instagram.com/reel/DfwgZM8BUUe/",
+        "video": "assets/reels/DfwgZM8BUUe.mp4",
+        "poster": "assets/reels/DfwgZM8BUUe.jpg",
+        "title": {
+          "kr": "수강생 데모 시연작",
+          "jp": "受講生のデモ作品",
+          "en": "A student's demo work"
+        },
+        "desc": {
+          "kr": "예쁜 눈썹은 얼굴의 분위기까지 바꿉니다.",
+          "jp": "美しい眉は、顔全体の雰囲気まで変えてくれます。",
+          "en": "A good brow changes the whole atmosphere of a face."
+        }
+      }
+    ]
+  },
+  "space": {
+    "eyebrow": "THE SPACE",
+    "title": {
+      "kr": "빛이 들어오는,<br>조용한 시술실",
+      "jp": "光の入る、<br>静かな施術室",
+      "en": "A quiet room,<br>full of daylight"
+    },
+    "lead": {
+      "kr": "하얀 커튼과 낮은 조명. 예약제로 운영해 시술 시간을 온전히 한 분께 씁니다. 매장 앞과 건물 옆에 무료 주차 공간이 있습니다.",
+      "jp": "白いカーテンと落ち着いた照明。予約制で、施術の時間はお一人のために使います。店舗前と建物横に無料駐車スペースがあります。",
+      "en": "White curtains, low light, and one client at a time. Free parking in front of the studio and beside the building."
+    },
+    "image": "assets/space.jpg",
+    "imageAlt": {
+      "kr": "하얀 커튼과 시술 베드가 있는 글로시 시술실",
+      "jp": "白いカーテンとベッドのあるGLOSSYの施術室",
+      "en": "The GLOSSY treatment room with white curtains"
+    },
+    "points": [
+      {
+        "t": {
+          "kr": "상현역 2번 출구 도보 5–7분",
+          "jp": "サンヒョン駅2番出口から徒歩5〜7分",
+          "en": "5–7 min on foot from Sanghyeon Stn. exit 2"
+        },
+        "d": {
+          "kr": "신분당선 상현역에서 627m. 육교를 건너 '법조로포차'를 끼고 좌회전하면 GLOSS 간판이 보입니다.",
+          "jp": "新盆唐線サンヒョン駅から627m。歩道橋を渡り「ポッチャ」の角を左折するとGLOSSの看板があります。",
+          "en": "627 m from Sanghyeon Station on the Shinbundang line."
+        }
+      },
+      {
+        "t": {
+          "kr": "무료 주차",
+          "jp": "無料駐車",
+          "en": "Free parking"
+        },
+        "d": {
+          "kr": "매장 앞 평행 주차 또는 매장 옆 주차 구역을 이용해 주세요. 주변 구역도 단속 구간이 아닙니다.",
+          "jp": "店舗前の平行駐車、または店舗横の駐車スペースをご利用ください。",
+          "en": "Parallel parking in front, or the lot beside the studio."
+        }
+      },
+      {
+        "t": {
+          "kr": "지역화폐 · 네이버페이",
+          "jp": "地域通貨・NAVERペイ",
+          "en": "Local currency · NAVER Pay"
+        },
+        "d": {
+          "kr": "카드형 지역화폐로 결제할 수 있습니다.",
+          "jp": "カード型の地域通貨でお支払いいただけます。",
+          "en": "Card-type local currency is accepted."
+        }
+      }
+    ]
+  },
+  "class": {
+    "eyebrow": "CLASS",
+    "title": {
+      "kr": "배우러 오는<br>원장님들",
+      "jp": "学びに来る<br>院長たち",
+      "en": "Artists come<br>here to learn"
+    },
+    "lead": {
+      "kr": "정규 과정과 원데이 클래스를 운영합니다. 2026년 정규 과정은 마감되었고, 2027년 대기를 받고 있습니다.",
+      "jp": "正規コースとワンデイクラスを開講しています。2026年の正規コースは受付終了、2027年のキャンセル待ちを承っています。",
+      "en": "We run a full course and one-day classes. The 2026 course is closed; the 2027 waiting list is open."
+    },
+    "body": {
+      "kr": "눈썹·입술 아트메이크업의 디자인과 시술을 함께 배웁니다. 수강 관련 안내는 카카오톡 오픈채팅방에서 확인할 수 있습니다.",
+      "jp": "眉・リップのアートメイクのデザインと施術を一緒に学びます。受講に関するご案内はKakaoTalkのオープンチャットでご確認いただけます。",
+      "en": "Design and technique for brow and lip art makeup, taught together. Class details are posted in the KakaoTalk open chat."
+    },
+    "cta": {
+      "kr": "오픈채팅으로 수강 문의",
+      "jp": "オープンチャットで受講相談",
+      "en": "Ask about classes"
+    },
+    "note": {
+      "kr": "수강 일정은 인스타그램 공지와 오픈채팅방에서 안내합니다.",
+      "jp": "受講スケジュールはInstagramとオープンチャットでお知らせします。",
+      "en": "Schedules are announced on Instagram and in the open chat."
+    }
+  },
+  "japan": {
+    "eyebrow": "FROM JAPAN",
+    "title": {
+      "kr": "일본에서 오시는 고객",
+      "jp": "日本からお越しのお客様へ",
+      "en": "Visiting from Japan"
+    },
+    "lead": {
+      "kr": "일본에서 오시는 고객은 LINE으로 예약과 상담을 받습니다. 도쿄·오사카에서는 기간 한정 팝업으로도 만날 수 있습니다.",
+      "jp": "日本のお客様はLINEよりご予約・お問い合わせください。東京・大阪では期間限定のポップアップも開催しています。",
+      "en": "Japanese clients book and ask questions on LINE. We also hold pop-ups in Tokyo and Osaka."
+    },
+    "note": {
+      "kr": "도쿄 방일 시술 11/22–24 · 자세한 일정은 인스타그램 공지",
+      "jp": "東京出張 11/22–24・最新日程はInstagramでお知らせ",
+      "en": "Tokyo visit 22–24 Nov · dates announced on Instagram"
+    },
+    "cta": {
+      "kr": "LINE으로 상담하기",
+      "jp": "LINEで相談する",
+      "en": "Message us on LINE"
+    }
+  },
+  "reviews": {
+    "eyebrow": "REVIEW",
+    "title": {
+      "kr": "먼저 다녀간<br>356분의 기록",
+      "jp": "先に通った<br>356人の記録",
+      "en": "What 356 clients said"
+    },
+    "lead": {
+      "kr": "네이버 플레이스 방문자 리뷰입니다. '시술이 꼼꼼해요'를 고른 분이 267명, '친절해요' 253명, '맞춤 디자인을 잘해줘요' 213명이었습니다.",
+      "jp": "NAVERプレイスの訪問者レビューです。「施術が丁寧」267人、「親切」253人、「似合うデザイン」213人が選んでいます。",
+      "en": "Visitor reviews from NAVER Place. 267 chose “thorough treatment”, 253 “kind”, 213 “design that fits”."
+    },
+    "rating": "5.0",
+    "count": {
+      "kr": "네이버 방문자 리뷰 356건",
+      "jp": "NAVER 訪問者レビュー 356件",
+      "en": "356 NAVER visitor reviews"
+    },
+    "keywords": [
+      {
+        "t": {
+          "kr": "시술이 꼼꼼해요",
+          "jp": "施術が丁寧",
+          "en": "Thorough"
+        },
+        "n": "267"
+      },
+      {
+        "t": {
+          "kr": "친절해요",
+          "jp": "親切",
+          "en": "Kind"
+        },
+        "n": "253"
+      },
+      {
+        "t": {
+          "kr": "맞춤 디자인을 잘해줘요",
+          "jp": "似合うデザイン",
+          "en": "Design that fits"
+        },
+        "n": "213"
+      },
+      {
+        "t": {
+          "kr": "자연스러워요",
+          "jp": "自然",
+          "en": "Natural"
+        },
+        "n": "182"
+      },
+      {
+        "t": {
+          "kr": "눈이 편안해요",
+          "jp": "目が楽",
+          "en": "Comfortable"
+        },
+        "n": "111"
+      }
+    ],
+    "items": [
+      {
+        "text": {
+          "kr": "원하는 느낌을 말하면 선생님께서 눈썹 모양이랑 형태에 맞게 잘 추천해주세요! 모양 잡으시고 나서도 컨펌 받으셔서 다들 원하는 눈썹 시술 받으실 수 있을겁니다!",
+          "jp": "希望を伝えると、眉の形に合わせてきちんと提案してくださいました。形を決めたあとも確認をとってくださるので、安心です。",
+          "en": "Tell them the feeling you want and they find the shape that fits it — and they check the design with you before starting."
+        },
+        "meta": {
+          "kr": "네이버 방문자 리뷰 · 대표원장 예약 · 2026.11",
+          "jp": "NAVER 訪問者レビュー・代表院長予約・2026.11",
+          "en": "NAVER visitor review · lead artist · Nov 2026"
+        }
+      },
+      {
+        "text": {
+          "kr": "상담부터 디자인, 시술까지 꼼꼼하게 신경 써주셔서 믿음이 갔어요. 제 얼굴에 어울리게 디자인해 주셔서 자연스럽고 예쁘게 잘 나온 것 같아요.",
+          "jp": "カウンセリングからデザイン、施術まできめ細かく対応してくださって信頼できました。顔に合うデザインで、自然にきれいに仕上がりました。",
+          "en": "Careful from consultation to design to treatment. The design suited my face, and it came out natural and pretty."
+        },
+        "meta": {
+          "kr": "네이버 방문자 리뷰 · 2026.10",
+          "jp": "NAVER 訪問者レビュー・2026.10",
+          "en": "NAVER visitor review · Oct 2026"
+        }
+      },
+      {
+        "text": {
+          "kr": "기존 눈썹에 붉은끼 잔혼이 있어서 시술 전부터 조금 걱정했는데, 원장님께서 붉은끼가 최대한 티 나지 않도록 커버하는 데 신경 써서 시술해주셔서 정말 감사했어요.",
+          "jp": "以前の眉に赤みの残りがあって不安でしたが、できるだけ目立たないようにカバーするよう丁寧に対応してくださいました。",
+          "en": "I was worried about old reddish pigment. They took care to cover it so it wouldn't show — I was grateful."
+        },
+        "meta": {
+          "kr": "네이버 방문자 리뷰 · 2026.09",
+          "jp": "NAVER 訪問者レビュー・2026.09",
+          "en": "NAVER visitor review · Sep 2026"
+        }
+      }
+    ],
+    "note": {
+      "kr": "리뷰 원문은 네이버 플레이스에서 확인할 수 있습니다. 표시된 문장은 리뷰에서 그대로 옮겼습니다.",
+      "jp": "レビューの原文はNAVERプレイスでご覧いただけます。",
+      "en": "Full reviews are on NAVER Place; quotes above are from the originals."
+    }
+  },
+  "reserve": {
+    "eyebrow": "BOOKING",
+    "title": {
+      "kr": "예약 안내",
+      "jp": "ご予約",
+      "en": "Booking"
+    },
+    "lead": {
+      "kr": "예약은 카카오톡 채널과 네이버 예약으로 받습니다. 일본 고객은 LINE을 이용해 주세요.",
+      "jp": "ご予約はKakaoTalkチャンネルとNAVER予約で承ります。日本のお客様はLINEをご利用ください。",
+      "en": "Book on the KakaoTalk channel or NAVER. Japanese clients use LINE."
+    },
+    "steps": [
+      {
+        "title": {
+          "kr": "카카오톡 채널로 문의",
+          "jp": "KakaoTalkチャンネルでご相談",
+          "en": "Message the KakaoTalk channel"
+        },
+        "desc": {
+          "kr": "원하는 시술과 희망 날짜·시간대를 남겨 주세요. 시술 중에는 답변이 조금 늦을 수 있습니다.",
+          "jp": "ご希望のメニューと日時をお送りください。施術中は返信が遅れることがあります。",
+          "en": "Send the menu and the dates you want. Replies can be slower while a treatment is running."
+        }
+      },
+      {
+        "title": {
+          "kr": "디자인 상담",
+          "jp": "デザインカウンセリング",
+          "en": "Design consultation"
+        },
+        "desc": {
+          "kr": "잔혼 상태와 눈썹 결, 얼굴 골격을 확인하고 디자인을 정합니다. 앉은 자세와 누운 자세에서 두 번 확인합니다.",
+          "jp": "残りの状態、毛流れ、骨格を確認してデザインを決めます。座った状態と寝た状態で二度確認します。",
+          "en": "We look at existing pigment, hair direction and bone, then settle the design — checked seated and lying down."
+        }
+      },
+      {
+        "title": {
+          "kr": "예약 확정",
+          "jp": "ご予約確定",
+          "en": "Confirmation"
+        },
+        "desc": {
+          "kr": "네이버 예약은 예약금 50,000원으로 접수됩니다. 확정 후 변경·취소는 최소 7일 전에 알려 주세요.",
+          "jp": "NAVER予約は予約金50,000ウォンで承ります。確定後の変更・キャンセルは7日前までにお知らせください。",
+          "en": "NAVER bookings are taken with a ₩50,000 deposit. Changes or cancellations need at least seven days' notice."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "kr": "네이버 예약은 자체 예약 프로그램과 연동되지 않아 실제 시간표와 다르게 열려 있을 수 있습니다. 원하는 시간대로 예약하시면 개별로 연락드립니다.",
+        "jp": "NAVER予約は独自の予約システムと連動していないため、実際の空き状況と異なる場合があります。ご希望の時間でご予約いただければ、個別にご連絡します。",
+        "en": "NAVER booking is not linked to our own schedule, so slots may not match. If you book the time you want, we will contact you individually."
+      },
+      {
+        "kr": "전화 상담이 어려운 시간이 많습니다. 문의는 카카오톡 채널 또는 네이버 톡톡으로 남겨 주세요.",
+        "jp": "電話に出られない時間が多くなっています。お問い合わせはKakaoTalkチャンネルまたはNAVERトークでお願いします。",
+        "en": "We often cannot answer the phone. Please leave a message on the KakaoTalk channel or NAVER Talk."
+      },
+      {
+        "kr": "일요일은 정기 휴무입니다.",
+        "jp": "日曜日は定休日です。",
+        "en": "Closed on Sundays."
+      }
+    ],
+    "coupons": {
+      "kr": "네이버 예약 쿠폰 — 무료 이미지 컨설팅 · 포토리뷰 10,000원 할인",
+      "jp": "NAVER予約クーポン — 無料イメージコンサルティング・フォトレビュー10,000ウォン割引",
+      "en": "NAVER coupons — free image consultation, ₩10,000 off for a photo review"
+    },
+    "note": {
+      "kr": "예약금은 시술 시간을 확보하기 위한 금액입니다. 변경·취소는 최소 7일 전에 알려 주세요.",
+      "jp": "予約金はお時間を確保するためのものです。変更・キャンセルは7日前までにお願いします。",
+      "en": "The deposit holds your time. Please give at least seven days' notice for any change."
+    }
+  },
+  "faq": {
+    "eyebrow": "BEFORE YOU BOOK",
+    "title": {
+      "kr": "예약 전에",
+      "jp": "ご予約の前に",
+      "en": "Before you book"
+    },
+    "lead": {
+      "kr": "자주 묻는 질문을 정리했습니다.",
+      "jp": "よくあるご質問をまとめました。",
+      "en": "The questions we hear most."
+    },
+    "items": [
+      {
+        "q": {
+          "kr": "예약금은 얼마인가요?",
+          "jp": "予約金はいくらですか？",
+          "en": "How much is the deposit?"
+        },
+        "a": {
+          "kr": "네이버 예약으로 접수할 때 예약금 50,000원이 결제됩니다. 시술 금액에 포함됩니다.",
+          "jp": "NAVER予約でお申し込みの際に予約金50,000ウォンをお支払いいただきます。施術料金に含まれます。",
+          "en": "A ₩50,000 deposit is paid when you book on NAVER; it counts toward the treatment."
+        }
+      },
+      {
+        "q": {
+          "kr": "예약을 바꾸거나 취소하려면 어떻게 하나요?",
+          "jp": "予約の変更・キャンセルはどうすればいいですか？",
+          "en": "How do I change or cancel?"
+        },
+        "a": {
+          "kr": "예약 확정 후 변경·취소는 최소 7일 전에 카카오톡 채널로 알려 주세요.",
+          "jp": "確定後の変更・キャンセルは7日前までにKakaoTalkチャンネルへご連絡ください。",
+          "en": "Tell us on the KakaoTalk channel at least seven days before."
+        }
+      },
+      {
+        "q": {
+          "kr": "전화로 상담할 수 있나요?",
+          "jp": "電話で相談できますか？",
+          "en": "Can I call?"
+        },
+        "a": {
+          "kr": "시술 중에는 전화를 받기 어렵습니다. 카카오톡 채널이나 네이버 톡톡으로 남겨 주시면 순서대로 답변드립니다.",
+          "jp": "施術中は電話に出られないことが多いです。KakaoTalkチャンネルまたはNAVERトークにお送りいただければ順に返信します。",
+          "en": "Rarely during treatments. Leave a message on KakaoTalk or NAVER Talk and we will reply in order."
+        }
+      },
+      {
+        "q": {
+          "kr": "반영구 가격이 표시되어 있지 않은 이유는요?",
+          "jp": "アートメイクの料金が表示されていないのはなぜですか？",
+          "en": "Why are art makeup prices not listed?"
+        },
+        "a": {
+          "kr": "잔혼 상태와 디자인 범위에 따라 금액이 달라지기 때문입니다. 상담에서 정확한 금액을 안내드립니다.",
+          "jp": "残りの状態やデザインの範囲で料金が変わるためです。カウンセリングで正確な金額をご案内します。",
+          "en": "Because existing pigment and the area covered change the work. We quote the exact price in consultation."
+        }
+      },
+      {
+        "q": {
+          "kr": "주차할 수 있나요?",
+          "jp": "駐車できますか？",
+          "en": "Is there parking?"
+        },
+        "a": {
+          "kr": "무료로 주차할 수 있습니다. 매장 앞 평행 주차 또는 매장을 끼고 돌면 나오는 주차 구역을 이용해 주세요.",
+          "jp": "無料で駐車できます。店舗前の平行駐車、または店舗を回り込んだ駐車スペースをご利用ください。",
+          "en": "Yes, free — parallel in front, or the lot around the side of the building."
+        }
+      },
+      {
+        "q": {
+          "kr": "일본어로 상담할 수 있나요?",
+          "jp": "日本語で相談できますか？",
+          "en": "Can I ask in Japanese?"
+        },
+        "a": {
+          "kr": "네. LINE으로 일본어 상담과 예약을 받고 있습니다.",
+          "jp": "はい。LINEで日本語のご相談・ご予約を承っています。",
+          "en": "Yes — LINE handles Japanese enquiries and bookings."
+        }
+      },
+      {
+        "q": {
+          "kr": "수강도 하나요?",
+          "jp": "受講はできますか？",
+          "en": "Do you teach?"
+        },
+        "a": {
+          "kr": "정규 과정과 원데이 클래스를 운영합니다. 2026년은 마감, 2027년 대기를 받고 있습니다.",
+          "jp": "正規コースとワンデイクラスを開講しています。2026年は終了、2027年のキャンセル待ちを承っています。",
+          "en": "We run a full course and one-day classes. 2026 is closed; the 2027 waiting list is open."
+        }
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "VISIT",
+    "title": {
+      "kr": "오시는 길",
+      "jp": "アクセス",
+      "en": "Visit"
+    },
+    "address": "경기 수원시 영통구 법조로149번길 29 1층",
+    "addressNote": {
+      "kr": "지번 하동 960-4 · 우편번호 16512",
+      "jp": "地番 ハドン 960-4・郵便番号 16512",
+      "en": "Hadong 960-4 · 16512"
+    },
+    "hours": {
+      "kr": "월–토 10:00–20:00",
+      "jp": "月〜土 10:00–20:00",
+      "en": "Mon–Sat 10:00–20:00"
+    },
+    "hoursNote": {
+      "kr": "일요일 정기 휴무",
+      "jp": "日曜定休",
+      "en": "Closed Sundays"
+    },
+    "transit": {
+      "kr": "신분당선 상현역 2번 출구에서 627m, 도보 5–7분. 2번 출구로 나와 직진, 신호등을 건너 육교를 지나 왼쪽 코너 '법조로포차'를 끼고 좌회전하면 GLOSS 간판이 보입니다.",
+      "jp": "新盆唐線サンヒョン駅2番出口から627m、徒歩5〜7分。2番出口を出て直進し、信号を渡って歩道橋を過ぎ、左角のポッチャを左折するとGLOSSの看板が見えます。",
+      "en": "627 m from Sanghyeon Station (Shinbundang line) exit 2 — about 5–7 minutes on foot. Go straight, cross at the lights and the footbridge; turn left at the corner and look for the GLOSS sign."
+    },
+    "parking": {
+      "kr": "건물 앞 평행 주차 또는 매장 옆 주차 구역을 무료로 이용할 수 있습니다.",
+      "jp": "建物前の平行駐車、または店舗横の駐車スペースを無料でご利用いただけます。",
+      "en": "Free parking in front of the building or in the lot beside it."
+    },
+    "phone": "0507-1343-0933",
+    "mapNote": {
+      "kr": "네이버 플레이스에서 위치·리뷰·예약을 함께 확인할 수 있습니다.",
+      "jp": "NAVERプレイスで場所・レビュー・予約をまとめて確認できます。",
+      "en": "Location, reviews and booking are all on NAVER Place."
+    }
+  },
+  "channels": {
+    "kakao": "https://pf.kakao.com/_GBytb",
+    "kakaoHome": "https://pf.kakao.com/_GBytb",
+    "naver": "https://naver.me/GUwJMSUY",
+    "instagram": "https://www.instagram.com/glossy_brow/",
+    "instagramLip": "https://www.instagram.com/glossy_lip.blush/",
+    "line": "https://lin.ee/L5jfV7r",
+    "lineLabel": "glossy",
+    "classKakao": "https://open.kakao.com/o/sPfxHVli"
+  },
+  "ui": {
+    "navAbout": {
+      "kr": "브랜드",
+      "jp": "ブランド",
+      "en": "Atelier"
+    },
+    "navMenu": {
+      "kr": "시술·가격",
+      "jp": "メニュー",
+      "en": "Treatments"
+    },
+    "navGallery": {
+      "kr": "갤러리",
+      "jp": "ギャラリー",
+      "en": "Work"
+    },
+    "navReels": {
+      "kr": "릴스",
+      "jp": "リール",
+      "en": "Reels"
+    },
+    "navClass": {
+      "kr": "수강",
+      "jp": "受講",
+      "en": "Class"
+    },
+    "navReview": {
+      "kr": "리뷰",
+      "jp": "レビュー",
+      "en": "Reviews"
+    },
+    "navVisit": {
+      "kr": "오시는 길",
+      "jp": "アクセス",
+      "en": "Visit"
+    },
+    "ctaKakao": {
+      "kr": "카카오톡으로 예약",
+      "jp": "カカオトークで予約",
+      "en": "KakaoTalk booking"
+    },
+    "ctaKakaoLong": {
+      "kr": "카카오톡으로 예약하기",
+      "jp": "カカオトークで予約する",
+      "en": "Book on KakaoTalk"
+    },
+    "ctaNaver": {
+      "kr": "네이버 예약",
+      "jp": "NAVER予約",
+      "en": "NAVER booking"
+    },
+    "ctaInstagram": {
+      "kr": "인스타그램 보기",
+      "jp": "Instagramを見る",
+      "en": "See Instagram"
+    },
+    "ctaLine": {
+      "kr": "LINE 상담",
+      "jp": "LINEで相談",
+      "en": "LINE"
+    },
+    "ctaCopy": {
+      "kr": "복사",
+      "jp": "コピー",
+      "en": "Copy"
+    },
+    "copyDone": {
+      "kr": "복사했습니다",
+      "jp": "コピーしました",
+      "en": "Copied"
+    },
+    "lineHint": {
+      "kr": "LINE에서 아래 링크로 친구 추가해 주세요.",
+      "jp": "下のリンクからLINEで友だち追加してください。",
+      "en": "Add us on LINE with the link below."
+    },
+    "reelPlay": {
+      "kr": "자동 재생 멈춤",
+      "jp": "自動再生を停止",
+      "en": "Pause autoplay"
+    },
+    "reelPlayOn": {
+      "kr": "자동 재생 시작",
+      "jp": "自動再生を開始",
+      "en": "Start autoplay"
+    },
+    "reelPrev": {
+      "kr": "이전 릴스",
+      "jp": "前のリール",
+      "en": "Previous reel"
+    },
+    "reelNext": {
+      "kr": "다음 릴스",
+      "jp": "次のリール",
+      "en": "Next reel"
+    },
+    "galOpen": {
+      "kr": "크게 보기",
+      "jp": "拡大表示",
+      "en": "View larger"
+    },
+    "galClose": {
+      "kr": "닫기",
+      "jp": "閉じる",
+      "en": "Close"
+    },
+    "bookCta": {
+      "kr": "예약하기",
+      "jp": "予約する",
+      "en": "Book"
+    },
+    "priceAsk": {
+      "kr": "상담 시 안내",
+      "jp": "カウンセリング時にご案内",
+      "en": "Quoted in consultation"
+    },
+    "ctaPrimary": {
+      "kr": "카카오톡으로 예약",
+      "jp": "LINEで予約",
+      "en": "Book on LINE"
+    },
+    "ctaPrimaryLong": {
+      "kr": "카카오톡으로 예약하기",
+      "jp": "LINEで予約する",
+      "en": "Book on LINE"
+    }
+  },
+  "footer": {
+    "desc": {
+      "kr": "GLOSSY · 수원 광교 아트메이크업 스튜디오",
+      "jp": "GLOSSY・水原アートメイクスタジオ",
+      "en": "GLOSSY · art makeup studio, Suwon"
+    },
+    "disclaimer": {
+      "kr": "게시한 사진과 영상은 글로시 인스타그램(@glossy_brow)에 공개한 시술 기록입니다.",
+      "jp": "掲載の写真・動画はGLOSSYのInstagram（@glossy_brow）に公開している施術記録です。",
+      "en": "Photographs and video are treatment records published on @glossy_brow."
+    },
+    "copyright": {
+      "kr": "© 2026 GLOSSY. All rights reserved.",
+      "jp": "© 2026 GLOSSY. All rights reserved.",
+      "en": "© 2026 GLOSSY. All rights reserved."
+    }
+  }
+}
